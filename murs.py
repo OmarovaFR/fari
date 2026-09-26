@@ -7,7 +7,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 
 # ===== НАСТРОЙКИ =====
-TOKEN = "8398248638:AAH12avrwFinqarda_iWNm2QVxDGy0xJFuM"
+TOKEN = "..."
 ADMIN_IDS = [794607637,823732562]  # вставь свои ID
 
 bot = Bot(token=TOKEN)
